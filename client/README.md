@@ -5,7 +5,7 @@ This is a peer to peer file sharing web application I built for my project. It a
 ## Live Demo Links
 * Frontend App: (https://mars-p2p-share.vercel.app/) (Open this to get the Demo of the project.)
 * Backend Server: (https://mars-p2p-share.onrender.com)
-* Demo Video: (https://drive.google.com/drive/folders/1_ULn0HTq5QIU_kNoF0LGiID2wtVE86on?usp=sharing)
+* Demo Video: (https://drive.google.com/drive/folders/1_ULn0HTq5QIU_kNoF0LGiID2wtVE86on?usp=sharing). One thing I couldn't mention in the demo video due to time constraints is that, after sharing a file, if you want to share another one, you need to return to the drag-and-drop screen. To do this, navigate back to the previous page either by swiping right with two fingers or by clicking the browser's back button. The drag-and-drop box will then be visible again.
 
 ## Project Description
 I wanted to build a file sharing app that focuses on user privacy. To do this, I used WebRTC to create a direct connection between the sender and the receiver. Because it is peer to peer, the files never sit on a database. 
