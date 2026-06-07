@@ -3,7 +3,7 @@ import { useParams, useLocation } from 'react-router-dom';
 import io from 'socket.io-client';
 import { generateChunkHash, encryptData, decryptData } from '../utils/crypto';
 
-const socket = io('http://localhost:5000');
+const socket = io('https://YOUR-RENDER-URL.onrender.com');
 
 export default function Room() {
   const { roomId } = useParams();
