@@ -3,7 +3,7 @@
 This is a peer to peer file sharing web application I built for my project. It allows two users to transfer files directly from one browser to another securely without storing anything on a server.
 
 ## Live Demo Links
-* Frontend App: (https://mars-p2p-share.vercel.app/)
+* Frontend App: (https://mars-p2p-share.vercel.app/)(Open this to get the Demo of the project.)
 * Backend Server: (https://mars-p2p-share.onrender.com)
 * Demo Video: (https://drive.google.com/drive/folders/1_ULn0HTq5QIU_kNoF0LGiID2wtVE86on?usp=sharing)
 
