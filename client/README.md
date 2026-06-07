@@ -39,6 +39,7 @@ The React app will open on localhost port 5173.
 * Direct peer to peer file transfer using WebRTC data channels.
 * Real time progress bar that shows the transfer percentage.
 * Automatic file download on the receiver's side once the transfer is 100 percent complete.
+* Also lets the other user know that the other side user has disconnected.
 
 ## Extra Features for Brownie Points
 I implemented several advanced engineering features beyond the basic requirements to earn extra brownie points on this submission:
